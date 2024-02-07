@@ -1,0 +1,60 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Build Directory
+build/
+
+# VS Code Files
+.vscode/
+*.code-workspace
+
+# Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Notebooks used for development
+notebooks/
+
+# libtorch module
+modules/libtorch/
+
+# OS X
+.DS_Store
+
+# Files related to release packaging
+Presets/
+prepare_plugin_release.sh
+remove_library_presets.sh
+SignedPlugins/
