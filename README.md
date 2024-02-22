@@ -1,6 +1,9 @@
 # torchdrum-plugin
 Differentiable drum synthesizer plugin
 
+**Note to reviewers**: Repo is in an in-progress state and will be fully updated with
+compiled plugins for download ahead of the camera-ready submission.
+
 ## Building from Source
 
 Clone project and pull submodules. Includes JUCE.
